@@ -1,2 +1,2 @@
-# Avito
+# Omd
 Avito Analytics Academy
